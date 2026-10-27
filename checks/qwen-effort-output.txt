@@ -1,0 +1,7 @@
+Output of qwen-effort.py, 11 October 2026 (reasoning tokens per query, pilot T1 queries at d5,
+the same 20 queries at each effort level, in the same order):
+{"low": [111, 102, 64, 764, 221, 269, 107, 121, 103, 189, 274, 270, 207, 300, 158, 225, 309, 86, 118, 173], "high": [81, 344, 491, 1197, 330, 371, 248, 150, 199, 243, 325, 243, 344, 278, 240, 226, 335, 160, 294, 303]}
+low median reasoning tokens: 181.0
+high median reasoning tokens: 286.0
+High exceeds low on 17 of 20 queries (two-sided sign test p = 0.0026). Every reply came from DeepInfra.
+An earlier run on 6 queries at d7 (low 221.5, medium 269.5, high 205.5 median) was too small to show the effect.

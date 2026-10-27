@@ -1,0 +1,267 @@
+{"task": "T1", "nodes": 11, "band": "dense", "edges": 16, "layout_seed": 2125508084, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 14, "layout_seed": 330586681, "reason": "nodes too close"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 18, "layout_seed": 4075475112, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 17, "layout_seed": 2962381006, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 16, "layout_seed": 4117410894, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 17, "layout_seed": 1165227329, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 15, "layout_seed": 1455599040, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 17, "layout_seed": 572383506, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 16, "layout_seed": 3036328193, "reason": "nodes too close"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 17, "layout_seed": 4137365966, "reason": "nodes too close"}
+{"task": "T1", "nodes": 11, "band": "sparse", "edges": 13, "layout_seed": 2998172391, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 11, "band": "sparse", "edges": 11, "layout_seed": 4076564206, "reason": "nodes too close"}
+{"task": "T1", "nodes": 11, "band": "sparse", "edges": 12, "layout_seed": 2757099522, "reason": "nodes too close"}
+{"task": "T1", "nodes": 11, "band": "sparse", "edges": 11, "layout_seed": 3360060778, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 11, "band": "sparse", "edges": 13, "layout_seed": 512005276, "reason": "nodes too close"}
+{"task": "T1", "nodes": 11, "band": "sparse", "edges": 12, "layout_seed": 3461962866, "reason": "nodes too close"}
+{"task": "T1", "nodes": 11, "band": "sparse", "edges": 11, "layout_seed": 3249095258, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 11, "band": "sparse", "edges": 12, "layout_seed": 2031090098, "reason": "nodes too close"}
+{"task": "T1", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 1796554362, "reason": "nodes too close"}
+{"task": "T1", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 2301404047, "reason": "nodes too close"}
+{"task": "T1", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 1829033564, "reason": "nodes too close"}
+{"task": "T1", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 1126053352, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 2284799481, "reason": "nodes too close"}
+{"task": "T1", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 2033871609, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 3781580901, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 3660603180, "reason": "nodes too close"}
+{"task": "T1", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 2892809806, "reason": "nodes too close"}
+{"task": "T1", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 3430593327, "reason": "nodes too close"}
+{"task": "T1", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 2376489540, "reason": "nodes too close"}
+{"task": "T1", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 3556487753, "reason": "nodes too close"}
+{"task": "T1", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 2774432407, "reason": "nodes too close"}
+{"task": "T1", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 357601084, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 4153625305, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 641356316, "reason": "nodes too close"}
+{"task": "T1", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 3685533943, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 934605832, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 12, "band": "sparse", "edges": 15, "layout_seed": 3912254957, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 11, "band": "sparse", "edges": 14, "layout_seed": 483308401, "reason": "nodes too close"}
+{"task": "T1", "nodes": 11, "band": "sparse", "edges": 13, "layout_seed": 1140707842, "reason": "nodes too close"}
+{"task": "T1", "nodes": 11, "band": "sparse", "edges": 13, "layout_seed": 769247629, "reason": "nodes too close"}
+{"task": "T1", "nodes": 11, "band": "sparse", "edges": 14, "layout_seed": 2383379705, "reason": "nodes too close"}
+{"task": "T1", "nodes": 11, "band": "sparse", "edges": 12, "layout_seed": 1542848241, "reason": "nodes too close"}
+{"task": "T1", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 1977976114, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 4066176735, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 15, "layout_seed": 858901899, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 15, "layout_seed": 690726337, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 17, "layout_seed": 2100319699, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 14, "layout_seed": 1724248256, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 15, "layout_seed": 3645516723, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 17, "layout_seed": 2561837108, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 15, "layout_seed": 3453985212, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 16, "layout_seed": 838805144, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 15, "layout_seed": 2510531522, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 18, "layout_seed": 722554890, "reason": "nodes too close"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 17, "layout_seed": 3614591044, "reason": "nodes too close"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 17, "layout_seed": 1751242742, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 14, "layout_seed": 168087832, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 17, "layout_seed": 404890261, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 17, "layout_seed": 498858167, "reason": "nodes too close"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 14, "layout_seed": 1248995369, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 17, "layout_seed": 2098391316, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 11, "band": "dense", "edges": 16, "layout_seed": 368389493, "reason": "nodes too close"}
+{"task": "T1", "nodes": 11, "band": "dense", "edges": 19, "layout_seed": 3004236958, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 11, "band": "dense", "edges": 19, "layout_seed": 2552912136, "reason": "nodes too close"}
+{"task": "T1", "nodes": 11, "band": "dense", "edges": 19, "layout_seed": 2315769296, "reason": "nodes too close"}
+{"task": "T1", "nodes": 11, "band": "dense", "edges": 19, "layout_seed": 1467015471, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 11, "band": "dense", "edges": 17, "layout_seed": 2784900369, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 11, "band": "dense", "edges": 17, "layout_seed": 1014215907, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 11, "band": "dense", "edges": 19, "layout_seed": 3998329106, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 11, "band": "dense", "edges": 17, "layout_seed": 1798474193, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 11, "band": "dense", "edges": 17, "layout_seed": 1747971420, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 18, "layout_seed": 1238680357, "reason": "nodes too close"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 14, "layout_seed": 3808825434, "reason": "nodes too close"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 16, "layout_seed": 2231527019, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 14, "layout_seed": 215864125, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "dense", "edges": 15, "layout_seed": 2373569522, "reason": "nodes too close"}
+{"task": "T1", "nodes": 10, "band": "sparse", "edges": 13, "layout_seed": 4095375814, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "sparse", "edges": 13, "layout_seed": 2370210864, "reason": "edge too close to a node"}
+{"task": "T1", "nodes": 10, "band": "sparse", "edges": 12, "layout_seed": 1976017796, "reason": "nodes too close"}
+{"task": "T2", "nodes": 10, "band": "dense", "edges": 15, "layout_seed": 4112717036, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 17, "layout_seed": 1361081352, "reason": "nodes too close"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 17, "layout_seed": 244561483, "reason": "nodes too close"}
+{"task": "T2", "nodes": 10, "band": "dense", "edges": 16, "layout_seed": 845504266, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 10, "band": "dense", "edges": 14, "layout_seed": 1393193081, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 10, "band": "dense", "edges": 17, "layout_seed": 2766712435, "reason": "nodes too close"}
+{"task": "T2", "nodes": 10, "band": "dense", "edges": 18, "layout_seed": 2784966379, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 10, "band": "dense", "edges": 14, "layout_seed": 3560639301, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 10, "band": "sparse", "edges": 11, "layout_seed": 2152832750, "reason": "nodes too close"}
+{"task": "T2", "nodes": 10, "band": "sparse", "edges": 11, "layout_seed": 3241724841, "reason": "nodes too close"}
+{"task": "T2", "nodes": 10, "band": "sparse", "edges": 12, "layout_seed": 244780967, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 10, "band": "sparse", "edges": 13, "layout_seed": 1484470688, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 10, "band": "sparse", "edges": 10, "layout_seed": 1899131621, "reason": "nodes too close"}
+{"task": "T2", "nodes": 10, "band": "sparse", "edges": 11, "layout_seed": 3004845845, "reason": "nodes too close"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 18, "layout_seed": 1918365069, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 19, "layout_seed": 2677234037, "reason": "nodes too close"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 18, "layout_seed": 3967427736, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 19, "layout_seed": 2056263085, "reason": "nodes too close"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 17, "layout_seed": 2996249821, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 19, "layout_seed": 696152747, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 19, "layout_seed": 2475524717, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 16, "layout_seed": 2604939600, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 17, "layout_seed": 511768408, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 16, "layout_seed": 2214167692, "reason": "nodes too close"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 19, "layout_seed": 2938436363, "reason": "nodes too close"}
+{"task": "T2", "nodes": 11, "band": "sparse", "edges": 11, "layout_seed": 4093674254, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 11, "band": "sparse", "edges": 13, "layout_seed": 1537938274, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 11, "band": "sparse", "edges": 11, "layout_seed": 2336656596, "reason": "nodes too close"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 18, "layout_seed": 3445320365, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 19, "layout_seed": 3097911841, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 17, "layout_seed": 24767476, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 17, "layout_seed": 1786126471, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 16, "layout_seed": 1046961993, "reason": "nodes too close"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 16, "layout_seed": 1455996687, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 17, "layout_seed": 2735103121, "reason": "nodes too close"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 16, "layout_seed": 2230996173, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 18, "layout_seed": 4292111370, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 16, "layout_seed": 292774759, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 17, "layout_seed": 2669308412, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 16, "layout_seed": 3889847163, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 11, "band": "dense", "edges": 16, "layout_seed": 2110630569, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 12, "band": "sparse", "edges": 12, "layout_seed": 1678903572, "reason": "nodes too close"}
+{"task": "T2", "nodes": 12, "band": "sparse", "edges": 15, "layout_seed": 2727960667, "reason": "nodes too close"}
+{"task": "T2", "nodes": 12, "band": "sparse", "edges": 15, "layout_seed": 1807201872, "reason": "nodes too close"}
+{"task": "T2", "nodes": 12, "band": "sparse", "edges": 13, "layout_seed": 1655429874, "reason": "nodes too close"}
+{"task": "T2", "nodes": 12, "band": "sparse", "edges": 14, "layout_seed": 3795476907, "reason": "nodes too close"}
+{"task": "T2", "nodes": 12, "band": "sparse", "edges": 14, "layout_seed": 3517627333, "reason": "nodes too close"}
+{"task": "T2", "nodes": 10, "band": "sparse", "edges": 10, "layout_seed": 524141903, "reason": "nodes too close"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 3355504825, "reason": "nodes too close"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 861171607, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 2855405957, "reason": "nodes too close"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 3072899900, "reason": "nodes too close"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 3209498696, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 105967281, "reason": "nodes too close"}
+{"task": "T2", "nodes": 10, "band": "sparse", "edges": 11, "layout_seed": 1612024738, "reason": "nodes too close"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 2623302830, "reason": "nodes too close"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 2156052483, "reason": "nodes too close"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 4290606328, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 368368693, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 905354850, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 920487327, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 3291335977, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 65244213, "reason": "nodes too close"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 1497398782, "reason": "nodes too close"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 2874805193, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 335099827, "reason": "nodes too close"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 3463964123, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 1444425968, "reason": "nodes too close"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 3134054980, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 2191430906, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 2688137360, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 4067780760, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 3197230643, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 3362088513, "reason": "nodes too close"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 2476249244, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 1021331120, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 434166871, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 1259985187, "reason": "nodes too close"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 2228502348, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 151375251, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 3529831206, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 403494969, "reason": "edge too close to a node"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 266359910, "reason": "nodes too close"}
+{"task": "T2", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 1069973786, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 10, "band": "dense", "edges": 14, "layout_seed": 4029717242, "reason": "nodes too close"}
+{"task": "T3", "nodes": 10, "band": "dense", "edges": 16, "layout_seed": 2256990828, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 11, "band": "sparse", "edges": 14, "layout_seed": 494670448, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 11, "band": "sparse", "edges": 11, "layout_seed": 1495189686, "reason": "nodes too close"}
+{"task": "T3", "nodes": 11, "band": "dense", "edges": 16, "layout_seed": 659568161, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 11, "band": "dense", "edges": 17, "layout_seed": 2887365846, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 11, "band": "dense", "edges": 17, "layout_seed": 739423916, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 11, "band": "dense", "edges": 16, "layout_seed": 3332475208, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 10, "band": "dense", "edges": 16, "layout_seed": 3177947513, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 10, "band": "dense", "edges": 16, "layout_seed": 1673251307, "reason": "nodes too close"}
+{"task": "T3", "nodes": 10, "band": "sparse", "edges": 13, "layout_seed": 4289179191, "reason": "nodes too close"}
+{"task": "T3", "nodes": 10, "band": "sparse", "edges": 13, "layout_seed": 2129254167, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 10, "band": "sparse", "edges": 13, "layout_seed": 182976676, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 10, "band": "sparse", "edges": 13, "layout_seed": 61986747, "reason": "no valid question for the target answer"}
+{"task": "T3", "nodes": 12, "band": "sparse", "edges": 15, "layout_seed": 3647773562, "reason": "nodes too close"}
+{"task": "T3", "nodes": 11, "band": "dense", "edges": 16, "layout_seed": 1356986341, "reason": "nodes too close"}
+{"task": "T3", "nodes": 11, "band": "dense", "edges": 18, "layout_seed": 1900613857, "reason": "nodes too close"}
+{"task": "T3", "nodes": 11, "band": "dense", "edges": 18, "layout_seed": 1507606183, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 1009688290, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 637810910, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 2215048873, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 3395922542, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "sparse", "edges": 14, "layout_seed": 2383830306, "reason": "nodes too close"}
+{"task": "T3", "nodes": 10, "band": "dense", "edges": 17, "layout_seed": 4116890858, "reason": "nodes too close"}
+{"task": "T3", "nodes": 10, "band": "dense", "edges": 14, "layout_seed": 1888689107, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 10, "band": "dense", "edges": 16, "layout_seed": 2360173105, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 477726820, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 2386550528, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 2344498697, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 3220835677, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 546489178, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 1970765766, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 1888928007, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 1532250295, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 3209802051, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 369297382, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 2275858049, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 3591138790, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 3847526702, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 3008312252, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 1906300258, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 2567697044, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 330200703, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 2819792160, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 592520492, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 2439437566, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 662121489, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 2973862630, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 3653533649, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 1721002886, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 3245125556, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 3257657212, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 266386029, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 1997765897, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 2366045639, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 2562924839, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 3911329317, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 424579883, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 3482550482, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 4207143604, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 93262666, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 714373063, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 780054184, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 3864839955, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 2019606859, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 3618855699, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 2260360869, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 131910399, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 2040162053, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 3603119986, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 1684567334, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 551542425, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 3904632030, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 2695149235, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 1265825832, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 2183428440, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 1113634294, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 3321079847, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 4077732746, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 2202448249, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 2954107308, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 319750952, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 174920986, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 1303803155, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 2870671623, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 751061057, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 1164356342, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 4252485803, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 1199033858, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 2966860443, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 1720252296, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 2166141950, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 1414638989, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 4002313654, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 20, "layout_seed": 2768942763, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 1509064969, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 19, "layout_seed": 3357427729, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 1672308537, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 17, "layout_seed": 1433651446, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 18, "layout_seed": 4068060462, "reason": "nodes too close"}
+{"task": "T3", "nodes": 12, "band": "dense", "edges": 21, "layout_seed": 2727950983, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 10, "band": "dense", "edges": 17, "layout_seed": 3770003203, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 10, "band": "dense", "edges": 15, "layout_seed": 3204618436, "reason": "edge too close to a node"}
+{"task": "T3", "nodes": 10, "band": "dense", "edges": 15, "layout_seed": 4018031893, "reason": "nodes too close"}
